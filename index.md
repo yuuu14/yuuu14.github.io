@@ -1,6 +1,7 @@
-
-
-### Education
+  
+  
+  
+## Education
 September 2014 - June 2018  
 Bachelor of Engineering, Computer Science and Technology, Beijing University of Posts and Telecommunications, China  
 **Thesis**: *Research and Design on Automatic Composing System of Jiangsu Folk Songs Based on Machine Learning*  
