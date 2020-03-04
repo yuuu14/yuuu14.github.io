@@ -1,16 +1,9 @@
-welcome to 
-
 # Yu Xiao
 
-personal page
+### Education
+September 2014 - June 2018
+Bachelor of Engineering, Computer Science and Technology, Beijing University of Posts and Telecommunications, China
 
-You can use the [editor on GitHub](https://github.com/yuuu14/yuuu14.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
