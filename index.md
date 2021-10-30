@@ -2,7 +2,7 @@
   
   
 ## Education
-October 2018 – current  
+October 2018 - current  
 Master, Computer Science, Saarland University, Germany  
 September 2014 - June 2018  
 Bachelor of Engineering, Computer Science and Technology, Beijing University of Posts and Telecommunications, China  
