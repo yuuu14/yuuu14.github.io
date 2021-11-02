@@ -10,7 +10,7 @@ Bachelor of Engineering, Computer Science and Technology, Beijing University of 
 
 
 ## Internship 
-October 2021 - current, JD.com
+October 2021 - current, JD.com  
 Deep Learning related
 
 
