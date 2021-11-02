@@ -9,7 +9,13 @@ Bachelor of Engineering, Computer Science and Technology, Beijing University of 
 **Thesis**: *Research and Design on Automatic Composing System of Jiangsu Folk Songs Based on Machine Learning*  
 
 
+## Internship 
+October 2021 - current, JD.com
+Deep Learning related
+
+
 ## Experience
+
 **Compiler for subset of C, written in C++**  
 October 2018 - January 2019  
 Compiler for the subset of C language, implemented by C++
