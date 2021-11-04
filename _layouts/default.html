@@ -31,6 +31,10 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
+	{% if site.show_blog %}
+	  <p class="view"><a href="{{ "/" | absolute_url }}blog">View My Blog</a></p>
+	{% endif %}
+
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
