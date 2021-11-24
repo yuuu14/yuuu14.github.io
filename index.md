@@ -33,7 +33,7 @@ Defense against *DeepFake*, using deep learning methods to detect forged human f
 - Use FaceForencis++ as dataset, CelebA as extra test set
 - Use CNN model: 3\*3 convolutional layers, ReLU function, 2\*2 max-pooling layers
 - Get 90% accuracy on basic dataset
-- In order to increase the generality of model, use fine tuning. After 2 Epochs, raise 5\% accurary on CelebA
+- In order to increase the generality of model, use fine tuning. After 2 Epochs, raise 5% accurary on CelebA
 
 **Compiler for subset of C, written in C++**  
 October 2018 - January 2019  
@@ -48,4 +48,3 @@ The project based on the original game Pokemon, using Qt and developed in Window
 - Use classes to store informations of Pokemon
 - Use Client-Server Model to implement sign up/login with Socket between client and server. Store client data on database (MSDB).    
 - Design the animation effect of battle between Pokemons with Qt user interface.
-``
